@@ -80,19 +80,19 @@
         <img src="https://avatars.githubusercontent.com/u/203993673?v=4" width="96"/><br/>
         <b>김희수</b> (<a href="https://github.com/kimshineday">@kimshineday</a>)
       <br/>
-      <sub>소셜로그인 API · User 데이터관</sub>
+      <sub>소셜로그인 API · User 데이터관리</sub>
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/206352569?v=4" width="96"/><br/>
         <b>유승협</b> (<a href="https://github.com/yoo-sh-96">@yoo-sh-96</a>)
       <br/>
-      <sub>Landing · AI 페이지</sub>
+      <sub>커뮤니티 API (CRUD) · DB 관리</sub>
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/204955431?v=4" width="96"/><br/>
         <b>이종찬</b> (<a href="https://github.com/jclee5419">@jclee5419</a>)
       <br/>
-      <sub>커뮤니티 페이지</sub>
+      <sub>AI 공부 계획 · 정보 요약 API</sub>
     </td>
   </tr>
 </table>

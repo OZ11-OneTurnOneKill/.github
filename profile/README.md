@@ -17,6 +17,8 @@
 
 ## 2. 🛠️ 기술 스택 (Tech Stack)
 
+<img width="1920" height="1080" alt="Web_App_Reference_Architecture_1" src="https://github.com/user-attachments/assets/5a13d89d-daf8-4006-a043-ee1d85cee329" />
+
 ### 🌐 Frontend
 - React 19, TypeScript, Vite  
 - Tailwind CSS, Framer Motion, Swiper  

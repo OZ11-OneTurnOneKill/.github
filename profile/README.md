@@ -6,7 +6,7 @@
 **EVI**는 디지털 휴먼 AI 가상비서를 공부에 접목한 학습 지원 플랫폼입니다.  
 사용자는 **학습 계획 생성**, **문서 요약**, **커뮤니티 활동**을 통해 맞춤형 학습 환경을 누릴 수 있습니다.  
 
-## 1. 📌 프로젝트 소개
+## 📌 프로젝트 소개
 - **목적**  
   학습자가 스스로 학습 계획을 세우고, AI를 활용하여 자료를 요약하거나 정리하며, 커뮤니티를 통해 서로 정보를 공유할 수 있는 환경을 제공하는 것.<br/><br/>
 - **주요 기능**
@@ -15,31 +15,34 @@
   - **마이페이지**: 학습 기록 및 챌린지 현황 관리
   - **안정적 서버**: FastAPI 기반 REST API, AWS 인프라 배포
 
-- **시연 영상**
+## 📺 시연 연상
 
-| 기능 | 시연 GIF |
-|------|-----------|
-| Landing Page (로그인 전) | ![로그인 전 랜딩](https://github.com/user-attachments/assets/d2ff516e-8f4f-40ec-bd30-71130ed088c7) |
-| Landing Page (로그인 후) | ![로그인 후 랜딩](https://github.com/user-attachments/assets/5b337f68-5352-480d-bdf4-71bf0eeee17d) |
-| 소셜 로그인 |  ![03-socialLogin](https://github.com/user-attachments/assets/ce37c279-cbe5-4463-89c7-c6499ad6c90e) |
-| AI 스터디 플랜 | ![학습 플랜](https://github.com/user-attachments/assets/a1646e74-b4cf-4bfb-8f39-1ee5c3e2ae92) |
-| AI 요약 정리 | ![06-aiPage-summary](https://github.com/user-attachments/assets/6f7ca72f-ceb8-4212-b006-2c8ba6c829f2) |
-| AI 요약 정리 - 실패한 경우 | ![07-aiPage-summary-failCase](https://github.com/user-attachments/assets/1a1939df-89d9-426c-a5dc-f675e1a4130a)|
-| My Page 신청자 목록 | ![08-myPage-ListOfApplicants](https://github.com/user-attachments/assets/3b4effe4-ac1f-446e-8873-3ade1b5ff363) |
-| My Page 회원탈퇴 | ![09-myPage-MembershipWithdrawal](https://github.com/user-attachments/assets/e396e258-69ad-4d4c-86d5-78c9b44237aa) |
-| My Page 캘린더 & 챌린지 | ![10-myPage-CalendarChallenge](https://github.com/user-attachments/assets/ba6142ba-8671-4827-af13-9d81e15cda9c) |
-| My Page 스터디 신청 현황 | ![11-myPage-StudyApplicationStatus](https://github.com/user-attachments/assets/35f15103-8651-469b-b8b2-33c53b3963fd) |
-| My Page 닉네임 수정 | ![12-myPage-ModifyingNickname_wrotenPost](https://github.com/user-attachments/assets/dd258594-15d2-476c-a17f-70673b99d45d) |
-| Community 게시글 작성 폼 확인 | ![게시글 작성 폼 확인](https://github.com/user-attachments/assets/0e95764a-5de7-4f0a-bae9-06a21e1a3739) |
-| Community 게시글 작성 및 파일 첨부 | ![ 게시글 작성 및 파일첨부](https://github.com/user-attachments/assets/b12b304d-5463-40a4-ab5f-b16dcd3f9b3c) |
-| Community 필터링별 검색 기능 | ![필터링별 검색기능](https://github.com/user-attachments/assets/4ebc577a-1e2e-45d0-845d-e2249568fb5f) |
-| Community 카테고리 TOP 5  | ![top 5 구현](https://github.com/user-attachments/assets/98b3f1e1-7bf6-4444-b444-2664ce0fac98) |
-| Community 탭 별 리스트 무한스크롤 | ![탭 별 리스트 무한스크롤](https://github.com/user-attachments/assets/cda0e071-8383-41f8-8155-4849855ae8fe) |
-| Community 좋아요 반영 및 찜 목록 확인 | ![좋아요 반영 및 찜목록 확인](https://github.com/user-attachments/assets/cfe97bea-aa8d-4be5-b48a-68e20597ae16) |
-| Community 댓글/대댓글 수정 및 삭제 확인 | ![댓글_대댓글 수정 및 삭제 확인](https://github.com/user-attachments/assets/33f9d9d9-56bc-46b1-91f7-6ef872edb59c) |
+| Lading Page (로그인 전) | Landing Page (로그인 후) | 소셜 로그인           |
+|:----------------------:| :----------------------:| :----------------------:|
+| ![로그인 전 랜딩](https://github.com/user-attachments/assets/d2ff516e-8f4f-40ec-bd30-71130ed088c7) | ![로그인 후 랜딩](https://github.com/user-attachments/assets/5b337f68-5352-480d-bdf4-71bf0eeee17d) | ![03-socialLogin](https://github.com/user-attachments/assets/ce37c279-cbe5-4463-89c7-c6499ad6c90e) |
+
+| AI 스터디 플랜          | AI 요약 정리            | AI 요약 정리 - 실패한 경우 |
+|:----------------------:| :----------------------:| :----------------------:|
+| ![학습 플랜](https://github.com/user-attachments/assets/a1646e74-b4cf-4bfb-8f39-1ee5c3e2ae92) | ![06-aiPage-summary](https://github.com/user-attachments/assets/6f7ca72f-ceb8-4212-b006-2c8ba6c829f2) | ![07-aiPage-summary-failCase](https://github.com/user-attachments/assets/1a1939df-89d9-426c-a5dc-f675e1a4130a) |
+
+| My Page 신청자 목록    | My Page 회원탈퇴        | My Page 캘린더 & 챌린지 |
+|:----------------------:| :----------------------:| :----------------------:|
+| ![08-myPage-ListOfApplicants](https://github.com/user-attachments/assets/3b4effe4-ac1f-446e-8873-3ade1b5ff363) | ![09-myPage-MembershipWithdrawal](https://github.com/user-attachments/assets/e396e258-69ad-4d4c-86d5-78c9b44237aa) | ![10-myPage-CalendarChallenge](https://github.com/user-attachments/assets/ba6142ba-8671-4827-af13-9d81e15cda9c) |
+
+| My Page 스터디 신청 현황 | My Page 닉네임 수정     | Community 게시글 작성 폼 확인 |
+|:------------------------:| :----------------------:| :----------------------:|
+| ![11-myPage-StudyApplicationStatus](https://github.com/user-attachments/assets/35f15103-8651-469b-b8b2-33c53b3963fd) | ![12-myPage-ModifyingNickname_wrotenPost](https://github.com/user-attachments/assets/dd258594-15d2-476c-a17f-70673b99d45d) | ![게시글 작성 폼 확인](https://github.com/user-attachments/assets/0e95764a-5de7-4f0a-bae9-06a21e1a3739) |
+
+| Community 게시글 작성 및 파일 첨부 | Community 필터링별 검색 기능  | Community 카테고리 TOP 5  |
+|:------------------------:| :----------------------:| :----------------------:|
+| ![ 게시글 작성 및 파일첨부](https://github.com/user-attachments/assets/b12b304d-5463-40a4-ab5f-b16dcd3f9b3c) | ![필터링별 검색기능](https://github.com/user-attachments/assets/4ebc577a-1e2e-45d0-845d-e2249568fb5f) | ![top 5 구현](https://github.com/user-attachments/assets/98b3f1e1-7bf6-4444-b444-2664ce0fac98) |
+
+| Community 탭 별 리스트 무한스크롤 | Community 좋아요 반영 및 찜 목록 확인  | Community 댓글/대댓글 수정 및 삭제 확인  |
+|:------------------------:| :----------------------:| :----------------------:|
+| ![탭 별 리스트 무한스크롤](https://github.com/user-attachments/assets/cda0e071-8383-41f8-8155-4849855ae8fe) | ![좋아요 반영 및 찜목록 확인](https://github.com/user-attachments/assets/cfe97bea-aa8d-4be5-b48a-68e20597ae16) | ![댓글_대댓글 수정 및 삭제 확인](https://github.com/user-attachments/assets/33f9d9d9-56bc-46b1-91f7-6ef872edb59c) |
 
 
-## 2. 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ 기술 스택 (Tech Stack)
 
 <img width="1920" height="1080" alt="Web_App_Reference_Architecture_1" src="https://github.com/user-attachments/assets/5a13d89d-daf8-4006-a043-ee1d85cee329" />
 
@@ -66,12 +69,12 @@
 </p>
 
 
-## 3. 🔗 배포 링크
+## 🔗 배포 링크
 - **서비스**: https://evida.site  
 - **백엔드 API**: https://backend.evida.site  
 
 
-## 4. 👨‍👩‍👧‍👦 팀 소개
+## 👨‍👩‍👧‍👦 팀 소개
 
 <p>본 프로젝트는 오즈코딩스쿨 <b>FE-BE 합동 프로젝트팀 원트원킬</b>이 진행했습니다.</p>
 
@@ -124,7 +127,7 @@
 </table>
 
 
-## 5. 📌 팀 컨벤션
+## 📌 팀 컨벤션
 
 ### 🗓 일정
 - 데일리 스크럼 : 매일 오전 10시 10분  
@@ -142,4 +145,17 @@
 - **Branch**: 영어 기반 네이밍 (`feature/<scope>`, `fix/<scope>`)  
 - **PR**: 템플릿 기반, 팀원 확인 후 머지  
 - **Issue**: Bug / Feature 템플릿 사용  
-- **Backend**: develop → main 머지 전 팀원 공유 및 확인 필수  
+- **Backend**: develop → main 머지 전 팀원 공유 및 확인 필수
+
+## :clipboard: Documents
+> [📜 API 명세서](https://backend.evida.site/docs)
+> 
+> [📜 요구사항 정의서](https://www.notion.so/23fcaf5650aa81499a41f22848e2a52a?source=copy_link)
+> 
+> [📜 ERD](https://docs.google.com/spreadsheets/d/1sRi0hSOcd4uFyzqtgjEbZS3W-fNGgZzk542Rs_1G6GA/edit?gid=0#gid=0)
+> 
+> [📜 테이블 명세서](https://docs.google.com/spreadsheets/d/1sRi0hSOcd4uFyzqtgjEbZS3W-fNGgZzk542Rs_1G6GA/edit?gid=0#gid=0)
+> 
+> [📜 와이어프레임](https://www.figma.com/design/dvhMgpq5PmztlY2WWNxlnw/Untitled?node-id=0-1&p=f&t=uL5hQ2UTUEIMDYRf-0)
+> 
+> [📜 화면 정의서](https://www.figma.com/design/dvhMgpq5PmztlY2WWNxlnw/Front-End-WireFrame?node-id=230-14985&p=f&t=iyCqqvpvLhBLOC4u-0)

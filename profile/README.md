@@ -156,6 +156,6 @@
 > 
 > [📜 테이블 명세서](https://docs.google.com/spreadsheets/d/1sRi0hSOcd4uFyzqtgjEbZS3W-fNGgZzk542Rs_1G6GA/edit?gid=0#gid=0)
 > 
-> [📜 와이어프레임](https://www.figma.com/design/dvhMgpq5PmztlY2WWNxlnw/Untitled?node-id=0-1&p=f&t=uL5hQ2UTUEIMDYRf-0)
+> [📜 와이어프레임](https://www.figma.com/design/dvhMgpq5PmztlY2WWNxlnw/Front-End-WireFrame?node-id=230-14984&p=f&t=WAXaatOZJ4bTdcXv-0)
 > 
-> [📜 화면 정의서](https://www.figma.com/design/dvhMgpq5PmztlY2WWNxlnw/Front-End-WireFrame?node-id=230-14985&p=f&t=iyCqqvpvLhBLOC4u-0)
+> [📜 화면 정의서](https://www.figma.com/design/dvhMgpq5PmztlY2WWNxlnw/Front-End-WireFrame?node-id=230-14985&p=f&t=OEHwbLXhIHDPK89V-0)
